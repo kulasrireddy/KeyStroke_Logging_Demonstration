@@ -32,4 +32,4 @@ This project is created for educational purposes only.
 Do not use it for unethical or illegal activities.
 
 ## 👨‍💻 Author
-Your Name
+Kulasri Reddy
